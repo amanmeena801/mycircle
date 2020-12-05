@@ -2,21 +2,12 @@
 Mycircle.io is a PHP based social networking website, which supports exclusive multimedia content, sharing and private or group messaging service.
 
 # Quick Links
- 1. [Screenshots](#screenshots)
- 2. [Features](#features)
- 3. [Requirements](#requirements)
- 4. [Setup Guide](#setup-guide)
- 5. [Contribute](#contribute)
- 6. [License](#license)
+ 1. [Features](#features)
+ 2. [Requirements](#requirements)
+ 3. [Setup Guide](#setup-guide)
+ 4. [Contribute](#contribute)
+ 5. [License](#license)
  
-
-# Screenshots
-
-<img width="960" alt="capture1" src="https://user-images.githubusercontent.com/27961735/38722563-e759e80a-3f1b-11e8-99b1-67c38138cb82.PNG">
-<img width="948" alt="capture2" src="https://user-images.githubusercontent.com/27961735/38722566-eac5aed4-3f1b-11e8-8165-1e1efb28ae9a.PNG">
-<img width="957" alt="capture3" src="https://user-images.githubusercontent.com/27961735/38722592-fd4dda04-3f1b-11e8-938c-7cbe298b0670.PNG">
-<img width="946" alt="capture4" src="https://user-images.githubusercontent.com/27961735/38722594-005daae4-3f1c-11e8-9b18-23262fd79684.PNG">
-<img width="958" alt="capture5" src="https://user-images.githubusercontent.com/27961735/38722595-01c5f6d4-3f1c-11e8-9cb3-131334038bd7.PNG">
 
 
 
